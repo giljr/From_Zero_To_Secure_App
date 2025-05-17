@@ -2,7 +2,7 @@
 
 Let’s Get Started!
 
-This tutorial is based on Chris Oliver’s [GoRails guide](https://gorails.com) 👌  
+This tutorial is based on Chris Oliver’s [GoRails](https://gorails.com) [guide](https://youtu.be/Hb9WtQf9K60?feature=shared) 👌  
 > **Note:** If you get stuck, please see my [repository](#).
 
 ---
@@ -186,7 +186,7 @@ Test signup, logout, login, and password reset flows.
 
 🧠 Credits
 
-Inspired by [Chris Oliver’s GoRails guide]().
+Inspired by [Chris Oliver’s GoRails guide](https://youtu.be/Hb9WtQf9K60?feature=shared).
 This version was crafted to be lean and educational. 
 
 Feel free to fork and customize it.
