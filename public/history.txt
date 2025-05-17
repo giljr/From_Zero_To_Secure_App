@@ -1,0 +1,20 @@
+ Start project
+ ------------------
+ mkdir jumpstart
+ cd jumpstart/
+ rails new auth_demo
+ cd auth_demo/
+ code .
+
+ -------------------- 
+ rails g model User email password_digest
+ rails db:migrate
+ bundle
+ bin/dev
+ rails db:drop
+ rails db:migrate
+ bin/dev
+ rails middleware | grep Session
+ bin/dev
+ rails g mailer Password
+ bin/dev
